@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "65800b3b9852f5b7d07920ef"
+  },
+  "name": "Vikas",
+  "email": "vikas@gmail.com",
+  "mobile": 7456754,
+  "experience": "2 year",
+  "specialization": "Fashion",
+  "images": [
+    "1702890299718-420718430-8 (15).png",
+    "1702890299721-697862700-april cover page (3).png",
+    "1702890299735-42440036-12 (4).png",
+    "1702890299736-807386930-11 (7).png",
+    "1702890299739-765330676-10_ (1).png",
+    "1702890299743-379985383-9 (13).png",
+    "1702890299744-348589657-7_ (1).png",
+    "1702890299752-951992011-6 (24).png"
+  ],
+  "password": "$2a$10$1FwD3A0Fd.15Z9AeG6rrzO9oLSaxAmeiIbclyHozqTJeDu7QrclPq",
+  "created_at": {
+    "$date": "2023-12-18T09:04:59.903Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-18T09:04:59.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6581457a414978e0f19ab56f"
+  },
+  "name": "Vaibhav",
+  "email": "kiya@gmail.com",
+  "mobile": 54653475,
+  "experience": "2 year",
+  "specialization": "Fitness",
+  "images": [
+    "1702970746367-259994888-9 (10).png",
+    "1702970746410-84368176-10 (8).png",
+    "1702970746431-653845780-11 (4).png",
+    "1702970746444-816048072-12 (2).png",
+    "1702970746454-998302762-13 (1).png",
+    "1702970746492-973939519-14 (1).png",
+    "1702970746517-476390779-15 (1).png",
+    "1702970746528-83421419-1 (38).png"
+  ],
+  "password": "$2a$10$vXH4x49VrRCWg1j2Y9mX0u/PR13aakpB7tvUvgUolFA.HvUnUFDQe",
+  "created_at": {
+    "$date": "2023-12-19T07:25:46.662Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-19T07:25:46.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6582c9e029cee8e99e625b98"
+  },
+  "name": "Booby Swaroop",
+  "email": "boby@gmail.com",
+  "mobile": 627678523,
+  "experience": "4 year",
+  "specialization": "Promotional",
+  "images": [
+    "1703070176011-819780893-19.png",
+    "1703070176019-583963770-18.png",
+    "1703070176041-470949678-17.png",
+    "1703070176056-152363991-16.png",
+    "1703070176068-881959646-15.png",
+    "1703070176093-86877920-14.png",
+    "1703070176118-595687441-13.png",
+    "1703070176132-899805833-12 (1).png"
+  ],
+  "password": "$2a$10$in0vUMBnzbM1ZKo2L1hiruPqBuNIzpuQklXTMUaLXrq8LEa9OfgzW",
+  "created_at": {
+    "$date": "2023-12-20T11:02:56.335Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-20T11:02:56.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658a8faacae316310b59a35f"
+  },
+  "name": "rishabh",
+  "email": "rishab@gmail.com",
+  "mobile": {
+    "$numberLong": "5674213234"
+  },
+  "experience": "2 year",
+  "specialization": "Fashion",
+  "images": [
+    "1703579562388-961881238-8 (15).png",
+    "1703579562417-4238520-april cover page (3).png",
+    "1703579562499-327193695-12 (4).png",
+    "1703579562504-615905978-11 (7).png",
+    "1703579562528-909495014-10_ (1).png",
+    "1703579562556-613192667-9 (13).png",
+    "1703579562562-983334966-7_ (1).png",
+    "1703579562566-879870358-6 (24).png"
+  ],
+  "password": "$2a$10$5BiAarJ8ZnjSU.l7ZdMvkOYnt8x5ieXVXRAlOuLmFKCqPA/fKgBGq",
+  "created_at": {
+    "$date": "2023-12-26T08:32:42.698Z"
+  },
+  "updated_at": {
+    "$date": "2023-12-26T08:32:42.698Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593bf647a6f709397501c8c"
+  },
+  "name": "Aftab",
+  "email": "aftab@gmail.com",
+  "mobile": 7456754,
+  "experience": "2 year",
+  "specialization": "Fashion",
+  "images": [
+    "1704181603660-833942616-5 (24).png",
+    "1704181603696-579126764-10 (7).png",
+    "1704181603719-294496899-9 (9).png",
+    "1704181603743-427950942-8 (11).png",
+    "1704181603787-325404699-7 (14).png",
+    "1704181603810-777587769-6 (19).png",
+    "1704181603829-199716884-5 (23).png",
+    "1704181603856-579976961-4 (26).png"
+  ],
+  "password": "$2a$10$PglmBWvzrpH80E/OY0KWaOrCqYAXkTFzhpK08bUJFvCqwgHTrGRVy",
+  "created_at": {
+    "$date": "2024-01-02T07:46:44.232Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-02T07:46:44.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6593f1497a6f709397534b7a"
+  },
+  "name": "Shivang",
+  "email": "shivang@gmail.com",
+  "mobile": 784375974,
+  "experience": "4 year",
+  "specialization": "Plus-Size",
+  "images": [
+    "1704194376541-976896299-1 (36).png",
+    "1704194376600-61194889-dec cover page (1).png",
+    "1704194376648-800298598-1 (35).png",
+    "1704194376663-519040499-2 (32).png",
+    "1704194376678-839512541-3 (32).png",
+    "1704194376692-711618649-4 (25).png",
+    "1704194376701-233124895-5 (22).png",
+    "1704194376717-984684282-nov cover page (1).png"
+  ],
+  "password": "$2a$10$hDd5HSvCCMuhoNBN69mKdeyocxJcCUWElWHc6cviopMHaXUZfZ2wC",
+  "created_at": {
+    "$date": "2024-01-02T11:19:37.384Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-02T11:19:37.384Z"
+  },
+  "__v": 0
+}]

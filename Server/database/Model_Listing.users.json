@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6593ada68610a540bf6ca62b"
+  },
+  "name": "Aftab Alam",
+  "email": "aftab@difm.tech",
+  "mobile": 7456754,
+  "password": "$2a$10$Axj6lLwa4gNmVsB5jcrHxO.wOpOAwcLNu.WDiXdm2KJMMpP/gwmii",
+  "created_at": {
+    "$date": "2024-01-02T06:31:02.397Z"
+  },
+  "updated_at": {
+    "$date": "2024-01-02T06:31:02.397Z"
+  },
+  "__v": 0
+}]
